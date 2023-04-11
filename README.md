@@ -1,6 +1,6 @@
 # docker_run_ego_yolo
 ## shell script for docker_run.sh
-
+you can also find it in docker_run_ego_yolo.sh
 ```
 #!/bin/bash
 
