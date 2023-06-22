@@ -16,6 +16,6 @@ sudo docker run \
   --env DISPLAY=$DISPLAY \
   --env TERM=xterm-256color \
   -v /dev:/dev \
-  --name "ego_cpp_dragon_boat" \
-  allenthreee/ego_cpp:dragon_boat_festival \
+  --name "ego_cpp_SUFFIX" \
+  allenthreee/ego_cpp:TAGNAME \
   /bin/bash
