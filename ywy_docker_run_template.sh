@@ -16,6 +16,6 @@ sudo docker run \
   --env DISPLAY=$DISPLAY \
   --env TERM=xterm-256color \
   -v /dev:/dev \
-  --name "IMAGENAME_TODO" \
-  allenthreee/IMAGENAME_TODO:TAGNAME_TODO \
+  --name "ContainerName_TODO" \
+  allenthreee/ImageName_TODO:TagName_TODO \
   /bin/bash
